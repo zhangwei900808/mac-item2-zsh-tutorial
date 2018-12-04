@@ -1,5 +1,8 @@
 # mac-iterm2-zsh-tutorial
 
+## Mac开发环境介绍
+下面介绍几款Mac下必装的开发工具：iTerm2、Zsh、Homebrew、Ohmyzsh。有了它们做项目开发就会更加得心应手，
+
 ## 1、什么是iTerm2？
 iTerm2是终端的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将终端带入了您从未想过的功能的现代时代。
 
@@ -13,6 +16,13 @@ iTerm2是终端的替代品，也是iTerm的继承者。 它适用于使用macOS
 ⌃+A/E 行首/尾、⌃+R 查询历史命令。
 ⌥+↔ 左右跳过单词。
 记住这些就差不多了，脑容量有限，应能省则省。
+
+## 2、什么是Zsh？
+
+
+## 3、什么是Homebrew？
+
+## 4、什么是ohmyzsh？
 
 ## 10 、引用
 1. [Mac 小记 — iTerm2、Zsh、Homebrew](https://www.cnblogs.com/youclk/p/8125305.html)
