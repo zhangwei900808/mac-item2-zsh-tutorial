@@ -12,19 +12,23 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 下载地址[在这里](https://www.iterm2.com/)，安装就不用多讲了。
 
 #### 2.3、常用快捷键
+
 ⌘+N、⌘+T、⌘+↔、⌘+F、⌘+W 这几个快捷键就不解释了。
+
 ⌘+D 垂直分屏、⌘+⇧+D 水平分屏、⌘+⌥+↑↓↔ 切换分屏。
+
 ⌘+↩全屏、⌘ + R 清屏。
+
 ⌃+A/E 行首/尾、⌃+R 查询历史命令。
+
 ⌥+↔ 左右跳过单词。
+
 记住这些就差不多了，脑容量有限，应能省则省。
 
 ## 3、什么是Zsh、Ohmyzsh？
 
 
 ## 4、什么是Homebrew？
-
-## 5、什么是ohmyzsh？
 
 ## 10 、引用
 1. [Mac 小记 — iTerm2、Zsh、Homebrew](https://www.cnblogs.com/youclk/p/8125305.html)
