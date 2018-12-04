@@ -19,7 +19,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 ⌥+↔ 左右跳过单词。
 记住这些就差不多了，脑容量有限，应能省则省。
 
-## 3、什么是Zsh？
+## 3、什么是Zsh、Ohmyzsh？
 
 
 ## 4、什么是Homebrew？
