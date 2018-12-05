@@ -46,29 +46,27 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 
 ### 3.1 brew常用命令
 ```
-搜索：brew search mysql
+brew search mysql #搜索指定软件
 
-查询：brew info mysql #主要看具体的信息，比如目前的版本，依赖，安装后注意事项等
+brew info mysql #查看软件的信息，比如目前的版本，依赖，安装后注意事项等
 
-更新：brew update #这会更新 Homebrew 自己，并且使得接下来的两个操作有意义——
+brew update #这会更新 Homebrew 自己，并且使得接下来的两个操作有意义——
 
-检查过时（是否有新版本）：brew outdated #这回列出所有安装的软件里可以升级的那些
+brew outdated #检查过时（是否有新版本）这会列出所有安装的软件里可以升级的那些
 
-升级：brew upgrade #升级所有可以升级的软件们
+brew upgrade #升级所有可以升级的软件们
 
-清理：brew cleanup #清理不需要的版本极其安装包缓存
+brew cleanup #清理不需要的版本极其安装包缓存
 
-更新：brew update          #  Homebrew 的信息
+brew outdated # 看一下哪些软件可以升级
 
-升级：brew outdated        # 看一下哪些软件可以升级
-
-升级指定的：brew upgrade <xxx>   # 如果不是所有的都要升级，那就这样升级指定的
+brew upgrade <xxx> # 升级指定的：如果不是所有的都要升级，那就这样升级指定的
  
-升级并清理：brew upgrade; brew cleanup    # 如果都要升级，直接升级完然后清理干净
+brew upgrade; brew cleanup #升级并清理：如果都要升级，直接升级完然后清理干净
 ```
 
 # 4、Alfred
-![4、Alfred](./imgs/alfred.png)(256x212)
+<img src="./imgs/alfred.png" width="256"/>
 
 下载地址[在这里](https://www.alfredapp.com/)
 
