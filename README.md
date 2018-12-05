@@ -81,16 +81,25 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ### 2.3、Ohmyzsh的主题安装
 
-<img src="./imgs/ohmyzshThemes.png" width="512" />
+下面是官网下的主题列表，详细的请点击[这里](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
 
-官方主题地址[在这里](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
+<img src="./imgs/ohmyzshThemes.png" width="512" />
 
 **启用主题**
 
-为了启用主题，在获取Oh My Zsh之前，将ZSH_THEME设置为〜/ .zshrc中主题的名称; 例如：ZSH_THEME = robbyrussell
+为了启用主题，在获取Oh My Zsh之前，将ZSH_THEME设置为〜/.zshrc中主题的名称; 例如：ZSH_THEME = robbyrussell
 如果您不想启用任何主题，只需将ZSH_THEME设置为空白：ZSH_THEME =“”
 
+```
+vim 〜/.zshrc
+```
+
 <img src="./imgs/ohmyzshtheme.png" width="512" />
+
+设置好之后，不要忘了执行source ~/.zshrc，然后重启一下，效果如下：
+
+<img src="./imgs/zsh-theme.png" width="512" />
+
 
 ### 2.4、Zsh-autosuggestion 介绍和安装
 这也是一个zsh的插件，用于命令建议和自动补全功能。
