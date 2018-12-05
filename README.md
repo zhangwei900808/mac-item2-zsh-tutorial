@@ -25,6 +25,31 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 记住这些就差不多了，脑容量有限，应能省则省。
 
+### 1.3、iTerm2配色方案
+主题地址[在这里](https://iterm2colorschemes.com/)，然后选择一个你认为很好看的颜色主题并下载。
+
+有两种方法可以安装iTerm主题：
+
+1. 直接通过键盘快捷方式：
+
+* 输入CMD + i（⌘+ i）
+* 导航到“颜色”选项卡
+* 单击“颜色预设”
+* 单击“导入”
+* 选择您要使用的方案的.itermcolors文件
+* 单击“颜色预设”并选择颜色方案
+
+2. 通过iTerm偏好
+
+* 点击iTerm2菜单标题
+* 选择首选项...选项
+* 选择配置文件
+* 导航到“颜色”选项卡
+* 单击“颜色预设”
+* 单击“导入”
+* 选择您要使用的方案的.itermcolors文件
+* 单击“颜色预设”并选择颜色方案
+
 # 2、Zsh(Ohmyzsh)
 
 ### 2.1、Zsh的介绍
@@ -50,7 +75,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 <img src="./imgs/ohmyzsh.png" width="512" />
 
-如果出现该画面说明你已经安装成功，祝贺你！
+如果出现该画面说明你已经安装成功！
 
 ### 2.3、Ohmyzsh的主题安装
 
