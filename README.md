@@ -50,7 +50,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 * 选择您要使用的方案的.itermcolors文件
 * 单击“颜色预设”并选择颜色方案
 
-<img src="./imgs/iterm2color.png" width="512" />
+<img src="./imgs/iterm2color.png" width="680" />
 
 # 2、Zsh(Ohmyzsh、zsh-autosuggestion)
 
