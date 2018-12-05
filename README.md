@@ -68,7 +68,7 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 ```
 
 # 4、Alfred
-![4、Alfred](./imgs/alfred.png=256x212)
+![4、Alfred](./imgs/alfred.png =256x212)
 
 下载地址[在这里](https://www.alfredapp.com/)
 
