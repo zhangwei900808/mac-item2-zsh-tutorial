@@ -5,7 +5,9 @@
 <img src="./imgs/iterm2.jpg" width="512"/>
 
 ### 1.1、iTerm2的介绍与安装
-iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将iTerm带入了您从未想过的功能的现代时代。官网的下载地址[在这里](https://www.iterm2.com/)，下载完成后直接点击就可以安装了。
+iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将iTerm带入了您从未想过的功能的现代时代。
+
+官网的下载地址[在这里](https://www.iterm2.com/)，下载完成后直接点击就可以安装了。
 
 ### 1.2、iTerm2常用快捷键
 
@@ -25,7 +27,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 # 2、Zsh(Ohmyzsh)
 
-### 2.1、Zsh的介绍与安装
+### 2.1、Zsh的介绍
 Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互式终端，也可以作为一个脚本解释器。它在兼容 Bash 的同时 (默认不兼容，除非设置成 emulate sh) 还有提供了很多改进，例如：
 
 * 更高效
@@ -38,12 +40,17 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 
 ![Ohmyzsh](./imgs/OMZLogo_BnW.png)
 
+Ohmyzsh是一个令人愉快的，开源的，社区驱动的框架，用于管理Zsh配置。它捆绑了大量有用的功能，助手，插件，主题和一些让你尖叫的东西......
+
 官网地址[在这里](https://ohmyz.sh/)，复制下面命令运行进行安装
 
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
+![Ohmyzsh](./imgs/ohmyzsh.png)
+
+如果出现该画面说明你已经安装成功，祝贺你！
 
 # 3、Homebrew
 
