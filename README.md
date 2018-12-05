@@ -2,7 +2,7 @@
 下面介绍几款Mac下必备开发神器：iTerm2、Zsh(Ohmyzsh)、Homebrew、Alfred。
 
 # 1、iTerm2
-<img src="./imgs/iterm2.jpg" width="512"/>
+<img src="./imgs/iterm2.jpg" width="700"/>
 
 ### 1.1、iTerm2的介绍与安装
 iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将iTerm带入了您从未想过的功能的现代时代。
@@ -84,6 +84,8 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 <img src="./imgs/ohmyzshThemes.png" width="512" />
 
 官方主题地址[在这里](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)，下面说说如何配置：
+
+**启用主题**
 
 为了启用主题，在获取Oh My Zsh之前，将ZSH_THEME设置为〜/ .zshrc中主题的名称; 例如：ZSH_THEME = robbyrussell
 如果您不想启用任何主题，只需将ZSH_THEME设置为空白：ZSH_THEME =“”
