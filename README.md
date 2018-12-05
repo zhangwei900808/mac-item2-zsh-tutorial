@@ -52,6 +52,8 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 如果出现该画面说明你已经安装成功，祝贺你！
 
+### 2.3、Ohmyzsh的主题安装
+
 # 3、Homebrew
 
 ![Homebrew](./imgs/homebrew.png)
