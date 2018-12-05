@@ -104,11 +104,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions
 
 vi ~/.zshrc
 
-source ~/.zshrc
-
 ```
 
 <img src="./imgs/zsh-autosuggest.png" width="512"/>
+
+注意，修改完成后执行下 source ~/.zshrc 才能起效。
 
 # 3、Homebrew
 
