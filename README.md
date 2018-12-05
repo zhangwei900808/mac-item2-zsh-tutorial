@@ -81,6 +81,16 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ### 2.3、Ohmyzsh的主题安装
 
+<img src="./imgs/ohmyzshThemes.png" width="512" />
+
+官方主题地址[在这里](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)，下面说说如何配置：
+
+为了启用主题，在获取Oh My Zsh之前，将ZSH_THEME设置为〜/ .zshrc中主题的名称; 例如：ZSH_THEME = robbyrussell
+如果您不想启用任何主题，只需将ZSH_THEME设置为空白：ZSH_THEME =“”
+
+<img src="./imgs/ohmyzshtheme.png" width="512" />
+
+
 # 3、Homebrew
 
 ![Homebrew](./imgs/homebrew.png)
