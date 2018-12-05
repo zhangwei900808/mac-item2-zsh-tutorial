@@ -108,7 +108,9 @@ vi ~/.zshrc
 
 <img src="./imgs/zsh-autosuggest.png" width="512"/>
 
-注意，修改完成后执行下 source ~/.zshrc 才能起效。
+注意，修改完成后执行下 source ~/.zshrc 才能起效，效果如下所示：
+
+<img src="./imgs/zsh-autos-demo.png" width="512"/>
 
 # 3、Homebrew
 
