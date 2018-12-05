@@ -1,5 +1,5 @@
 # Mac必备开发神器
-下面介绍几款Mac下必备开发神器：iTerm2、Zsh(Ohmyzsh)、Homebrew、Alfred、Sequel Pro、Studio 3T。
+下面介绍几款Mac下必备开发神器：iTerm2、Zsh(Ohmyzsh)、Homebrew、Alfred。
 
 # 1、iTerm2
 <img src="./imgs/iterm2.jpg" width="512"/>
@@ -95,20 +95,6 @@ brew upgrade; brew cleanup #升级并清理：如果都要升级，直接升级�
 
 下载地址[在这里](https://www.alfredapp.com/)
 
-# 5、Sequel Pro
-![SequelPro](./imgs/sequel_pro.png)
-
-### 5.1、Sequel Pro的介绍与安装
-
-下载地址[在这里](http://www.sequelpro.com/)
-
-
-# 6、Studio 3T
-![Studio3T](./imgs/studio3t.png)
-
-### 6.1、Studio 3T的介绍与安装
-
-下载地址[在这里](https://studio3t.com/)
 
 # 10、引用
 1. [Mac 小记 — iTerm2、Zsh、Homebrew](https://www.cnblogs.com/youclk/p/8125305.html)
