@@ -1,5 +1,5 @@
 # Mac必备开发神器
-下面介绍几款Mac下必备开发神器：iTerm2、Zsh、Homebrew、Ohmyzsh。
+下面介绍几款Mac下必备开发神器：iTerm2、Zsh、Ohmyzsh、Homebrew。
 
 ## 1、iTerm2
 
