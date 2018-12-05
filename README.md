@@ -1,5 +1,3 @@
-# mac-iterm2-zsh-tutorial
-
 # Mac必备开发神器
 下面介绍几款Mac下必备开发神器：iTerm2、Zsh、Homebrew、Ohmyzsh。
 
@@ -26,7 +24,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 记住这些就差不多了，脑容量有限，应能省则省。
 
-## 2、什么是Zsh、Ohmyzsh？
+## 2、Zsh、Ohmyzsh
 Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互式终端，也可以作为一个脚本解释器。它在兼容 Bash 的同时 (默认不兼容，除非设置成 emulate sh) 还有提供了很多改进，例如：
 更高效
 更好的自动补全
@@ -35,13 +33,13 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 可定制性高
 
 
-## 3、什么是Homebrew？
+## 3、Homebrew
 下载地址[在这里](https://brew.sh/)，运行下面命令进行安装
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-#### 4.2 brew常用命令
+#### 3.1 brew常用命令
 ```
 搜索：brew search mysql
 
