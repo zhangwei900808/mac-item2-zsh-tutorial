@@ -52,7 +52,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 <img src="./imgs/iterm2color.png" width="512" />
 
-# 2、Zsh
+# 2、Zsh(Ohmyzsh、zsh-autosuggestion)
 
 ### 2.1、Zsh的介绍
 Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互式终端，也可以作为一个脚本解释器。它在兼容 Bash 的同时 (默认不兼容，除非设置成 emulate sh) 还有提供了很多改进，例如：
