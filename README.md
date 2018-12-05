@@ -25,7 +25,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 # 2、Zsh(Ohmyzsh)
 
-### 2.1、iTerm2的介绍与安装
+### 2.1、Zsh的介绍与安装
 Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互式终端，也可以作为一个脚本解释器。它在兼容 Bash 的同时 (默认不兼容，除非设置成 emulate sh) 还有提供了很多改进，例如：
 
 * 更高效
@@ -49,13 +49,15 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ![Homebrew](./imgs/homebrew.png)
 
+### 3.1、Ohmyzsh的介绍与安装
+
 官网地址[在这里](https://brew.sh/)，复制下面命令运行进行安装
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-### 3.1 brew常用命令
+### 3.2 brew常用命令
 
 ```
 brew search mysql #搜索指定软件
@@ -80,16 +82,22 @@ brew upgrade; brew cleanup #升级并清理：如果都要升级，直接升级�
 # 4、Alfred
 <img src="./imgs/alfred.png" width="256"/>
 
+### 4.1、Alfred的介绍与安装
+
 下载地址[在这里](https://www.alfredapp.com/)
 
 # 5、Sequel Pro
 ![SequelPro](./imgs/sequel_pro.png)
+
+### 5.1、Sequel Pro的介绍与安装
 
 下载地址[在这里](http://www.sequelpro.com/)
 
 
 # 6、Studio 3T
 ![Studio3T](./imgs/studio3t.png)
+
+### 6.1、Studio 3T的介绍与安装
 
 下载地址[在这里](https://studio3t.com/)
 
