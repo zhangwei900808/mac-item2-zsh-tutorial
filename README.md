@@ -13,6 +13,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 #### 2.3、常用快捷键
 
+```
 ⌘+N、⌘+T、⌘+↔、⌘+F、⌘+W 这几个快捷键就不解释了。
 
 ⌘+D 垂直分屏、⌘+⇧+D 水平分屏、⌘+⌥+↑↓↔ 切换分屏。
@@ -22,6 +23,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 ⌃+A/E 行首/尾、⌃+R 查询历史命令。
 
 ⌥+↔ 左右跳过单词。
+```
 
 记住这些就差不多了，脑容量有限，应能省则省。
 
@@ -37,24 +39,32 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 ## 4、什么是Homebrew？
 下载地址[在这里](https://brew.sh/)，安装就不用多讲了。
 
-#### 4.1安装Homebrew
+#### 4.1 安装Homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-#### 4.2brew常用命令
+#### 4.2 brew常用命令
 ```
 搜索：brew search mysql
 
-查询：brew info mysql 主要看具体的信息，比如目前的版本，依赖，安装后注意事项等
+查询：brew info mysql #主要看具体的信息，比如目前的版本，依赖，安装后注意事项等
 
-更新：brew update 这会更新 Homebrew 自己，并且使得接下来的两个操作有意义——
+更新：brew update #这会更新 Homebrew 自己，并且使得接下来的两个操作有意义——
 
-检查过时（是否有新版本）：brew outdated 这回列出所有安装的软件里可以升级的那些
+检查过时（是否有新版本）：brew outdated #这回列出所有安装的软件里可以升级的那些
 
-升级：brew upgrade 升级所有可以升级的软件们
+升级：brew upgrade #升级所有可以升级的软件们
 
-清理：brew cleanup 清理不需要的版本极其安装包缓存
+清理：brew cleanup #清理不需要的版本极其安装包缓存
+
+更新：brew update          #  Homebrew 的信息
+
+升级：brew outdated        # 看一下哪些软件可以升级
+
+升级指定的：brew upgrade <xxx>   # 如果不是所有的都要升级，那就这样升级指定的
+ 
+升级并清理：brew upgrade; brew cleanup    # 如果都要升级，直接升级完然后清理干净
 ```
 
 ## 10 、引用
