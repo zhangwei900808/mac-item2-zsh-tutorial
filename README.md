@@ -1,14 +1,14 @@
 # Mac必备开发神器
 下面介绍几款Mac下必备开发神器：iTerm2、Zsh、Ohmyzsh、Homebrew。
 
-## 1、iTerm2
+# 1、iTerm2
 
-#### 1.1、iTerm2的介绍和安装？
+### 1.1、iTerm2的介绍和安装？
 iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将iTerm带入了您从未想过的功能的现代时代。
 
 下载地址[在这里](https://www.iterm2.com/)，安装就不用多讲了。
 
-#### 1.2、常用快捷键
+### 1.2、常用快捷键
 
 ```
 ⌘+N、⌘+T、⌘+↔、⌘+F、⌘+W 这几个快捷键就不解释了。
@@ -24,7 +24,7 @@ iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 
 
 记住这些就差不多了，脑容量有限，应能省则省。
 
-## 2、Zsh、Ohmyzsh
+# 2、Zsh、Ohmyzsh
 Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互式终端，也可以作为一个脚本解释器。它在兼容 Bash 的同时 (默认不兼容，除非设置成 emulate sh) 还有提供了很多改进，例如：
 更高效
 更好的自动补全
@@ -33,13 +33,13 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 可定制性高
 
 
-## 3、Homebrew
+# 3、Homebrew
 下载地址[在这里](https://brew.sh/)，运行下面命令进行安装
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-#### 3.1 brew常用命令
+### 3.1 brew常用命令
 ```
 搜索：brew search mysql
 
@@ -62,7 +62,7 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 升级并清理：brew upgrade; brew cleanup    # 如果都要升级，直接升级完然后清理干净
 ```
 
-## 10 、引用
+# 10 、引用
 1. [Mac 小记 — iTerm2、Zsh、Homebrew](https://www.cnblogs.com/youclk/p/8125305.html)
 
 2. [Mac 从零开始配置开发环境](https://www.codecasts.com/series/setup-a-mac-dev-machine)
