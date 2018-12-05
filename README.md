@@ -48,7 +48,7 @@ Ohmyzsh是一个令人愉快的，开源的，社区驱动的框架，用于管�
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-![Ohmyzsh](./imgs/ohmyzsh.png)
+<img src="./imgs/ohmyzsh.png" width="256" />
 
 如果出现该画面说明你已经安装成功，祝贺你！
 
