@@ -67,10 +67,16 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 升级并清理：brew upgrade; brew cleanup    # 如果都要升级，直接升级完然后清理干净
 ```
 
-# Alfred
-![Alfred](./imgs/alfred.png)
+# 4、Sequel Pro
+![SequelPro](./imgs/sequel_pro.png)
 
-下载地址[在这里](https://www.alfredapp.com/)
+下载地址[在这里](http://www.sequelpro.com/)
+
+
+# 5、Studio 3T
+![Studio3T](./imgs/studio3t.png)
+
+下载地址[在这里](https://studio3t.com/)
 
 # 10、引用
 1. [Mac 小记 — iTerm2、Zsh、Homebrew](https://www.cnblogs.com/youclk/p/8125305.html)
