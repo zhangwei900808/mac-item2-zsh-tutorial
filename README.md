@@ -7,7 +7,7 @@
 ### 1.1、iTerm2的介绍与安装
 iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将iTerm带入了您从未想过的功能的现代时代。官网的下载地址[在这里](https://www.iterm2.com/)，下载完成后直接点击就可以安装了。
 
-### 1.2、常用快捷键
+### 1.2、iTerm2常用快捷键
 
 ```
 ⌘+N、⌘+T、⌘+↔、⌘+F、⌘+W 这几个快捷键就不解释了。
@@ -49,7 +49,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 ![Homebrew](./imgs/homebrew.png)
 
-### 3.1、Ohmyzsh的介绍与安装
+### 3.1、Homebrew的介绍与安装
 
 官网地址[在这里](https://brew.sh/)，复制下面命令运行进行安装
 
@@ -57,7 +57,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-### 3.2 brew常用命令
+### 3.2 Homebrew常用命令
 
 ```
 brew search mysql #搜索指定软件
