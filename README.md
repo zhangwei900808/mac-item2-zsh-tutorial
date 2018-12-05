@@ -164,7 +164,7 @@ Alfred 是 Mac 系统上一款专注于效率提升的著名应用，它能帮�
 
 下载地址[在这里](https://www.alfredapp.com/)，下载完成后直接点击就可以安装了。
 
-<img src="./imgs/mac.png" width="600"/>
+<img src="./imgs/mac.png" width="800"/>
 
 
 # 10、引用
