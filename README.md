@@ -67,13 +67,18 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 升级并清理：brew upgrade; brew cleanup    # 如果都要升级，直接升级完然后清理干净
 ```
 
-# 4、Sequel Pro
+# 4、Alfred
+![4、Alfred](./imgs/alfred.png)
+
+下载地址[在这里](https://www.alfredapp.com/)
+
+# 5、Sequel Pro
 ![SequelPro](./imgs/sequel_pro.png)
 
 下载地址[在这里](http://www.sequelpro.com/)
 
 
-# 5、Studio 3T
+# 6、Studio 3T
 ![Studio3T](./imgs/studio3t.png)
 
 下载地址[在这里](https://studio3t.com/)
