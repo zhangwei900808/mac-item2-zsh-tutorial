@@ -2,6 +2,7 @@
 下面介绍几款Mac下必备开发神器：iTerm2、Zsh(Ohmyzsh)、Homebrew、Alfred、Sequel Pro、Studio 3T。
 
 # 1、iTerm2
+![iTerm2](./imgs/iterm2.png)
 
 ### 1.1、iTerm2的介绍和安装？
 iTerm2是iTerm的替代品，也是iTerm的继承者。 它适用于使用macOS 10.10或更高版本的Mac。 iTerm2将iTerm带入了您从未想过的功能的现代时代。
@@ -32,9 +33,12 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 更好的数组处理
 可定制性高
 
+![Ohmyzsh](./imgs/OMZLogo_BnW.png)
+
 
 # 3、Homebrew
-![homebrew](./imgs/homebrew.png)
+![Homebrew](./imgs/homebrew.png)
+
 下载地址[在这里](https://brew.sh/)，复制下面命令运行进行安装
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -64,6 +68,8 @@ Zsh 是一款功能强大终端（shell）软件，既可以作为一个交互�
 ```
 
 # Alfred
+![Alfred](./imgs/alfred.png)
+
 下载地址[在这里](https://www.alfredapp.com/)
 
 # 10、引用
