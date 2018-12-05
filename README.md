@@ -103,14 +103,13 @@ cd ~/.oh-my-zsh/custom/plugins/
 git clone https://github.com/zsh-users/zsh-autosuggestions
 
 vi ~/.zshrc
-
 ```
 
 <img src="./imgs/zsh-autosuggest.png" width="512"/>
 
 注意，修改完成后执行下 source ~/.zshrc 才能起效，效果如下所示：
 
-<img src="./imgs/zsh-autos-demo.png" width="512"/>
+<img src="./imgs/zsh-autos-demo.png" width="700"/>
 
 # 3、Homebrew
 
