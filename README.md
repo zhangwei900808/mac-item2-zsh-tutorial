@@ -125,9 +125,7 @@ vi ~/.zshrc
 ![Homebrew](./imgs/homebrew.png)
 
 ### 3.1、Homebrew的介绍与安装
-Homebrew是MacOS 缺失的软件包的管理器
-
-官网地址[在这里](https://brew.sh/)，复制下面命令运行进行安装
+Homebrew是MacOS 缺失的软件包的管理器，官网地址[在这里](https://brew.sh/)，复制下面命令运行进行安装
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -167,7 +165,7 @@ Alfred 是 Mac 系统上一款专注于效率提升的著名应用，它能帮�
 <img src="./imgs/mac.png" width="800"/>
 
 
-# 10、引用
+# 5、引用
 1. [Mac 小记 — iTerm2、Zsh、Homebrew](https://www.cnblogs.com/youclk/p/8125305.html)
 
 2. [Mac 从零开始配置开发环境](https://www.codecasts.com/series/setup-a-mac-dev-machine)
